@@ -13,13 +13,13 @@ Levo comigo em todos estes anos de profissão o foco na comunicação, acessibil
 
 ## 💻 Competências
 
-🔸 Desenvolvimento Web
-🔸 Design to Code
-🔸 Otimização e Performance
-🔸 Landing Pages de Lançamentos
-🔸 Desenvolvimento Web
-🔸 Testes A/B monitorados
-🔸 Análise de dados
+🔸 Desenvolvimento Web<br />
+🔸 Design to Code<br />
+🔸 Otimização e Performance<br />
+🔸 Landing Pages de Lançamentos<br />
+🔸 Desenvolvimento Web<br />
+🔸 Testes A/B monitorados<br />
+🔸 Análise de dados<br />
    e muito mais!
 
 ## 🎓 Formação
@@ -41,7 +41,7 @@ Levo comigo em todos estes anos de profissão o foco na comunicação, acessibil
 
 
 ## 🔧 Ferramentas
-|  | <span style="color: white;">**********************************</span> | 
+|  | <span style="color: black;">**********************************</span> | 
 | :----:   | :----: |
 | **Wordpress** | [==] |
 | **Elementor** | [==] |
