@@ -1,9 +1,10 @@
 # Marcos Victor Soares Oliveira
 
-<center>
+
 ![](https://media.licdn.com/dms/image/C4D03AQGIk-An7E61NA/profile-displayphoto-shrink_200_200/0/1650400711390?e=1709164800&v=beta&t=3wmJ1019x773c7fEorcq_oRLcL12jPurEbChchmQymc)
-Web Designer 💻
-</center>
+
+<center>Web Designer 💻</center>
+
 
 *****
 
