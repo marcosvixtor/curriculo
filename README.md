@@ -1,8 +1,11 @@
 # Marcos Victor Soares Oliveira
-Web Designer 💻
 
+<center>
 ![](https://media.licdn.com/dms/image/C4D03AQGIk-An7E61NA/profile-displayphoto-shrink_200_200/0/1650400711390?e=1709164800&v=beta&t=3wmJ1019x773c7fEorcq_oRLcL12jPurEbChchmQymc)
+Web Designer 💻
+</center>
 
+*****
 
 Web Designer e Publicitário de formação e coração. Desenvolvo não só um site mas sim uma solução virtual que conecta empresas, pessoas e relações diretamente.
 
